@@ -15,6 +15,7 @@
 
 #Database config
 appsettings.json
+appsettings.Development.json
 
 # Mono auto generated files
 mono_crash.*
